@@ -73,7 +73,7 @@ class Profile extends StatelessWidget {
                     children: [
                       Icon(Icons.email),
                       SizedBox(width: 60),
-                      Text("shayanalifok@gmail.com",style: TextStyle(fontSize: 15),),
+                      Text("shayanalifok@gmail.com",style: TextStyle(fontSize: 18),),
                     ],
                   ),
                 ),
