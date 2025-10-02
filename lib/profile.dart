@@ -10,9 +10,9 @@ class Profile extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             CircleAvatar(
-              backgroundColor: Colors.red,
+             
               radius: 40,
-              child: Icon(Icons.person, size: 40),
+            backgroundImage:AssetImage("assets/girl.jpg")
             ),
             Text(
               "SHAYANA P",
